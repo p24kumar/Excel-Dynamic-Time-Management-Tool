@@ -16,5 +16,3 @@ This project is an automated scheduling system built in **Excel with VBA** to im
 3. Enable **Macros (VBA)**.  
 4. Use the control panel to input tasks, update the calendar, and view your dashboards.  
 
-## License  
-Open-source under the MIT License.  
